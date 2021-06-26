@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.APP__Values{
+  display: inline-flex;
+}
+.APP__BUTTON{
+  margin: 10px;
+  cursor: pointer;
+}
+
+.APP__INPUT{
+  margin: 0 10px;
+  padding: 0 15px;
+  width: 30px;
+}
